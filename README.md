@@ -55,7 +55,7 @@ A modern, responsive game discovery platform built with React and TypeScript. Br
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/game-hub.git
+   git clone https://github.com/Yash-Lad/game-hub.git
    cd game-hub
    ```
 
@@ -63,16 +63,12 @@ A modern, responsive game discovery platform built with React and TypeScript. Br
 
    ```bash
    npm install
-   # or
-   yarn install
    ```
 
 3. **Start the development server**
 
    ```bash
    npm run dev
-   # or
-   yarn dev
    ```
 
 4. **Setup & Installation Dependencies**
@@ -87,16 +83,12 @@ A modern, responsive game discovery platform built with React and TypeScript. Br
 
 ```bash
 npm run build
-# or
-yarn build
 ```
 
 ### Preview Production Build
 
 ```bash
 npm run preview
-# or
-yarn preview
 ```
 
 ## 🏗️ Project Structure
@@ -137,10 +129,10 @@ game-hub/
 │   ├── main.tsx          # Application entry point
 │   └── theme.ts          # Chakra UI theme configuration
 ├── GameHub Preview.png     # GameHub Preview
+├── README.md               # Project documentation
 ├── index.html              # HTML template
 ├── package-lock.json       # Project dependencies and scripts
 ├── package.json            # Project dependencies and scripts
-├── README.md               # Project documentation
 ├── tsconfig.json           # TypeScript Configuration
 ├── tsconfig.node.json      # Node TypeScript Config
 └── vite.config.ts          # Vite Build Setup
